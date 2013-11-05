@@ -35,7 +35,6 @@ function updateIcons()
  */
 function initApplication()
 {
-   translateMainPage();
    openLinksInApp();
    if (checkRequirements() === false)
    {
